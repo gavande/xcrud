@@ -1,5 +1,6 @@
 {
     "name": "svfnix/xcrud",
+    "version": "1.0.0",
     "description": "XCrud/Laravel - crud engine",
     "keywords": ["PHP","XCrud","Crud"],
     "type": "library",
